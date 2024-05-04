@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "prac4",
+            "request": "launch",
+            "mainClass": "prac4",
+            "projectName": "Conditional_bbced3c2"
+        },
+        {
+            "type": "java",
+            "name": "prac3",
+            "request": "launch",
+            "mainClass": "prac3",
+            "projectName": "Conditional_bbced3c2"
+        },
+        {
+            "type": "java",
+            "name": "prac2",
+            "request": "launch",
+            "mainClass": "prac2",
+            "projectName": "Conditional_bbced3c2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "practiceJAVA",
+            "request": "launch",
+            "mainClass": "practiceJAVA",
+            "projectName": "Conditional_bbced3c2"
+        }
+    ]
+}

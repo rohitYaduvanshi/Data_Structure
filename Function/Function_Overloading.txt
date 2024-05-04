@@ -1,0 +1,37 @@
+Introduction to Function Overloading in Java
+Function Overloading in Java occurs when there are functions
+ having the same name but have different numbers of 
+ parameters passed to it, which can be different in data 
+ like int, double, float and used to return different 
+ values are computed inside the respective overloaded 
+ method. Function overloading is used to reduce 
+ complexity and increase the efficiency of the program
+by involving more functions that are segregated and can
+be used to distinguish among each other with respect 
+to their individual functionality. Overloaded functions
+are related to compile-time or static polymorphism. 
+    
+There is also a concept of type conversion, which is 
+basically used in overloaded functions used to calculate
+ the conversion of type in variables.
+
+Overloaded functions have the same name but different types of arguments
+ or parameters assigned to them. They can be used to calculate mathematical or
+  logical operations within the number of assigned variables in the method. '
+The syntax of the overloaded function can be given 
+below, where there are up to N number of variables assigned.\
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<,
+Working of Function Overloading
+Function overloading works by calling different functions having the same name,
+ but the different number of arguments passed to it. There are many coding 
+ examples that can be shown in order to identify the benefits and disadvantages 
+ of function overloading properly.
+
+Advantage of Function Overloading
+Function overloading works with the same name. So we do not have to create 
+methods that have the same thing as work that is done inside a respective 
+function. The functionality not only resolves the problem of conflicting 
+naming but also improves the readability of the program.
+
