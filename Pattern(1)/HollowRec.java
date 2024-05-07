@@ -18,3 +18,9 @@ public class HollowRec {
         hollow_rectangle(4, 5);
     }
 }
+
+
+// *****
+// *   *
+// *   *
+// *****
