@@ -1,0 +1,8 @@
+Sorting refers to arranging data in a specific order using 
+certain criteria. You can sort different types of data, 
+including numbers, strings, and objects. Java provides built-in 
+methods for sorting, such as the Collections classes.2
+
+Sorting data in Java could be useful in an e-commerce application where a list of products needs to be displayed to the user. The products can be sorted in various ways depending on the requirements the user sets such as price, rating, brand, and so on.
+
+For example, if the user wants to see all the products sorted by price in ascending order, the application can use a sorting algorithm to arrange the products in that order. This way, when the user views the products, they will be able to see the cheapest products first and make a purchase decision accordingly.
