@@ -5,7 +5,8 @@ public class Selection {
         for (int i = 0; i < arr.length-1; i++) {
             int minPos = i;
             for (int j = i+1; j < arr.length; j++) {
-                if (arr[minPos] > arr[j]) {
+                if (arr[minPos] > arr[j]) {  // Min >
+                    //For max  < 
                     minPos = j;
                 }
             }
@@ -27,3 +28,5 @@ public class Selection {
         printArr(arr);
     }
 }
+
+//Time comlexity BIG O(n^2)
