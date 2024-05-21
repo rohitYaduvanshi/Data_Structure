@@ -35,4 +35,8 @@ public class Search_Matrix {
         Search_matrix(matrix, 5);
         s.close();
     }
+    public static void main(String[] args) {
+        Scanner s = new Scanner(System.in);
+        int a
+    }
 }

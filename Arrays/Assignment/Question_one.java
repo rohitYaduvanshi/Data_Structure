@@ -9,7 +9,7 @@ package Arrays.Assignment;
 // Output: false 
 // Example 3:Input:nums = [1, 1, 1, 3, 3, 4, 3, 2, 4, 2]
 // Output:   true 
-// Constraints:
+// Constraints:                                           Rohit ku
 // •1 <= nums .lengtth <= 105•-109 <= nums [ i ] <= 109 
 
 public class Question_one {
