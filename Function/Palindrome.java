@@ -32,5 +32,6 @@ public class Palindrome {
         else{
             System.out.println("Number : " + palin + " is not a palindrome");
         }
+        s.close();
     }
 }

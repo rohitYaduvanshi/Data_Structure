@@ -1,3 +1,5 @@
+
+package Arrays.twoD_Array;
 public class SortedMatrix {
     public static boolean staircaseSearch(int matarix[][], int key){
         int row = 0, col = matarix[0].length-1;

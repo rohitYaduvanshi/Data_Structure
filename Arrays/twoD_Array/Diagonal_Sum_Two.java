@@ -1,3 +1,5 @@
+
+package Arrays.twoD_Array;
 public class Diagonal_Sum_Two {
     public static int Optimize_diagonal_Sum(int matrix[][]){
         int sum = 0;
