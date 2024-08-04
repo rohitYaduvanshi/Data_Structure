@@ -1,6 +1,7 @@
 package String;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Strings_Anagram {
     static boolean areAnagram(char[] str1, char[] str2) {
@@ -27,8 +28,11 @@ public class Strings_Anagram {
     }
 
     public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
         char str1[] = { 'g', 'r', 'a', 'm' };
-        char str2[] = { 'a', 'r', 'm', 'g' };
+        System.out.print("Enter a string: ");
+        String input = sc.nextLine();
+        char str2[] = input.toCharArray();
 
         // Function Call
         if (areAnagram(str1, str2)) {
@@ -36,5 +40,6 @@ public class Strings_Anagram {
         } else {
             System.out.println("The two strings are not anagram of each other");
         }
+        sc.close();
     }
 }
